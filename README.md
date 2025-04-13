@@ -18,7 +18,7 @@ Bu proje, kullanıcıların görevlerini ekleyip, güncelleyip, silebildiği kla
 Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsin:
 
 ```bash
-git clone https://github.com/kullaniciadi/to-do-list_app.git
+git clone https://github.com/eyuphan_dev/to-do-list_app.git
 cd to-do-list_app
 python -m venv venv
 source venv/bin/activate  # Windows için: venv\Scripts\activate
